@@ -1,0 +1,9 @@
+.header {
+    background: blue;
+    height: 40px;
+    color: white;
+}
+
+.header img {
+    max-width: 100%;
+}
